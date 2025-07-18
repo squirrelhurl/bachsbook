@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/squirrelhurl/bachsbook.git/sw.js",{scope:"/squirrelhurl/bachsbook.git/"})

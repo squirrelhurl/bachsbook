@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bachs</title>
+    <link>http://localhost:1313/squirrelhurl/bachsbook.git/</link>
+    <description>Recent content on Bachs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Jul 2025 22:25:28 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/squirrelhurl/bachsbook.git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Auditions</title>
+      <link>http://localhost:1313/squirrelhurl/bachsbook.git/posts/important-info/auditions/</link>
+      <pubDate>Thu, 17 Jul 2025 22:25:28 -0500</pubDate>
+      <guid>http://localhost:1313/squirrelhurl/bachsbook.git/posts/important-info/auditions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tuition</title>
+      <link>http://localhost:1313/squirrelhurl/bachsbook.git/posts/important-info/tuition/</link>
+      <pubDate>Thu, 17 Jul 2025 22:25:10 -0500</pubDate>
+      <guid>http://localhost:1313/squirrelhurl/bachsbook.git/posts/important-info/tuition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2025 2026 Schedule</title>
+      <link>http://localhost:1313/squirrelhurl/bachsbook.git/posts/important-info/2025-2026-schedule/</link>
+      <pubDate>Thu, 17 Jul 2025 22:24:54 -0500</pubDate>
+      <guid>http://localhost:1313/squirrelhurl/bachsbook.git/posts/important-info/2025-2026-schedule/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Registration</title>
+      <link>http://localhost:1313/squirrelhurl/bachsbook.git/posts/important-info/registration/</link>
+      <pubDate>Thu, 17 Jul 2025 22:24:31 -0500</pubDate>
+      <guid>http://localhost:1313/squirrelhurl/bachsbook.git/posts/important-info/registration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/squirrelhurl/bachsbook.git/posts/important-info/contact/</link>
+      <pubDate>Thu, 17 Jul 2025 22:24:08 -0500</pubDate>
+      <guid>http://localhost:1313/squirrelhurl/bachsbook.git/posts/important-info/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Support Us</title>
+      <link>http://localhost:1313/squirrelhurl/bachsbook.git/posts/support-us/</link>
+      <pubDate>Thu, 17 Jul 2025 22:23:45 -0500</pubDate>
+      <guid>http://localhost:1313/squirrelhurl/bachsbook.git/posts/support-us/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rehearsals and Concerts</title>
+      <link>http://localhost:1313/squirrelhurl/bachsbook.git/posts/rehearsal-info/rehearsals-and-concerts/</link>
+      <pubDate>Thu, 17 Jul 2025 22:23:24 -0500</pubDate>
+      <guid>http://localhost:1313/squirrelhurl/bachsbook.git/posts/rehearsal-info/rehearsals-and-concerts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dress Code</title>
+      <link>http://localhost:1313/squirrelhurl/bachsbook.git/posts/rehearsal-info/dress-code/</link>
+      <pubDate>Thu, 17 Jul 2025 22:23:03 -0500</pubDate>
+      <guid>http://localhost:1313/squirrelhurl/bachsbook.git/posts/rehearsal-info/dress-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Staff</title>
+      <link>http://localhost:1313/squirrelhurl/bachsbook.git/posts/about-us/staff/</link>
+      <pubDate>Thu, 17 Jul 2025 22:22:34 -0500</pubDate>
+      <guid>http://localhost:1313/squirrelhurl/bachsbook.git/posts/about-us/staff/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>http://localhost:1313/squirrelhurl/bachsbook.git/posts/about-us/history/</link>
+      <pubDate>Thu, 17 Jul 2025 22:22:18 -0500</pubDate>
+      <guid>http://localhost:1313/squirrelhurl/bachsbook.git/posts/about-us/history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Choir Structure</title>
+      <link>http://localhost:1313/squirrelhurl/bachsbook.git/posts/about-us/choir-structure/</link>
+      <pubDate>Thu, 17 Jul 2025 22:22:04 -0500</pubDate>
+      <guid>http://localhost:1313/squirrelhurl/bachsbook.git/posts/about-us/choir-structure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Main</title>
+      <link>http://localhost:1313/squirrelhurl/bachsbook.git/posts/main/</link>
+      <pubDate>Thu, 17 Jul 2025 22:21:29 -0500</pubDate>
+      <guid>http://localhost:1313/squirrelhurl/bachsbook.git/posts/main/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
