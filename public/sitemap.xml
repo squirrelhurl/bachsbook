@@ -2,46 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/posts/important-info/auditions/</loc>
-    <lastmod>2025-07-17T22:32:04-05:00</lastmod>
+    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/important-info/auditions/</loc>
+    <lastmod>2025-07-17T23:17:04-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/squirrelhurl/bachsbook.git/</loc>
-    <lastmod>2025-07-17T22:36:57-05:00</lastmod>
+    <lastmod>2025-07-17T23:17:04-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/posts/</loc>
-    <lastmod>2025-07-17T22:36:57-05:00</lastmod>
+    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/important-info/</loc>
+    <lastmod>2025-07-17T23:17:04-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/posts/important-info/tuition/</loc>
-    <lastmod>2025-07-17T22:32:04-05:00</lastmod>
+    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/important-info/tuition/</loc>
+    <lastmod>2025-07-17T23:17:04-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/posts/important-info/2025-2026-schedule/</loc>
-    <lastmod>2025-07-17T22:32:04-05:00</lastmod>
+    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/important-info/2025-2026-schedule/</loc>
+    <lastmod>2025-07-17T23:17:04-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/posts/important-info/registration/</loc>
-    <lastmod>2025-07-17T22:32:04-05:00</lastmod>
+    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/important-info/registration/</loc>
+    <lastmod>2025-07-17T23:17:04-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/posts/important-info/contact/</loc>
-    <lastmod>2025-07-17T22:32:04-05:00</lastmod>
+    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/important-info/contact/</loc>
+    <lastmod>2025-07-17T23:17:04-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/posts/support-us/</loc>
-    <lastmod>2025-07-17T22:32:04-05:00</lastmod>
+    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/support-us/</loc>
+    <lastmod>2025-07-17T23:17:04-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/posts/rehearsal-info/rehearsals-and-concerts/</loc>
-    <lastmod>2025-07-17T22:32:04-05:00</lastmod>
+    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/rehearsal-info/</loc>
+    <lastmod>2025-07-17T23:17:04-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/posts/rehearsal-info/dress-code/</loc>
-    <lastmod>2025-07-17T22:32:04-05:00</lastmod>
+    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/rehearsal-info/rehearsals-and-concerts/</loc>
+    <lastmod>2025-07-17T23:17:04-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/posts/about-us/staff/</loc>
-    <lastmod>2025-07-17T22:32:04-05:00</lastmod>
+    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/rehearsal-info/dress-code/</loc>
+    <lastmod>2025-07-17T23:17:04-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/posts/about-us/history/</loc>
-    <lastmod>2025-07-17T22:32:04-05:00</lastmod>
+    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/about-us/</loc>
+    <lastmod>2025-07-17T23:17:04-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/posts/about-us/choir-structure/</loc>
-    <lastmod>2025-07-17T22:36:57-05:00</lastmod>
+    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/about-us/staff/</loc>
+    <lastmod>2025-07-17T23:17:04-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/posts/main/</loc>
-    <lastmod>2025-07-17T22:32:04-05:00</lastmod>
+    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/about-us/history/</loc>
+    <lastmod>2025-07-17T23:17:04-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/about-us/choir-structure/</loc>
+    <lastmod>2025-07-17T23:03:36-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/squirrelhurl/bachsbook.git/main/</loc>
+    <lastmod>2025-07-17T23:17:04-05:00</lastmod>
   </url>
 </urlset>
