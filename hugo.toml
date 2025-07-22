@@ -1,4 +1,4 @@
-baseURL = 'https://squirrelhurl/github.io/bachsbook/'
+baseURL = 'https://bachschoir.org'
 languageCode = 'en-us'
 title = 'Bachs'
 theme = 'hugo-book'
