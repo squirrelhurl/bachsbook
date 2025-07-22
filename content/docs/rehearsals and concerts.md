@@ -18,11 +18,11 @@ Trebel Choir- Lower Level at 1:20pm-2:30pm
 Concert Choir- Sanctuary at 1:30pm-3:30pm
 
 
-If the rehearsal is canceled, you will be notivated by e-mail.
+If the rehearsal is canceled, you will be notified by e-mail.
 
 **Absences/Attendance**
 
-We expect each student to attend each scheduled rehearsal so that our programs are adequately prepared. However, we will allow each student not more than two absences each semester.
+We expect every student to attend each scheduled rehearsal so that our programs are adequately prepared. However, we will allow each student not more than two absences each semester.
 
 Parents should e-mail the choir director if their child will be absent for any reason. If a child if out due to extended illness or family circumstances, the parent should contact Mr. Miller to discuss.
 
